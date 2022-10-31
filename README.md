@@ -1,4 +1,4 @@
-# financial_dashbaord
+# financial_dashboard
 Financial Dashboard for S&amp;P 500 Stocks 
 
 
