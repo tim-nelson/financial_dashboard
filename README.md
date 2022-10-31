@@ -1,5 +1,5 @@
 # S&P 500 Financial Dashboard
-Financial dashboard for S&P 500 stock data.
+Financial dashboard for S&P 500 stock data.  
 ("Specific stock" temporarily shows the S&P 500 stock, but a future version will have a drop-down to select any S&P 500 company stock.)
 
 ## Screenshot of current version:
