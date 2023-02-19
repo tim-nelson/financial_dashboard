@@ -1,5 +1,5 @@
 # S&P 500 Financial Dashboard
-Financial dashboard for S&P 500 stock data.  
+Financial dashboard for S&P 500 stock data using HoloViews Panel.  
 ("Specific stock" currently shows only the S&P 500 stock, but I intend to add a drop-down to select any S&P 500 company stock.)
 
 ## Screenshot of current version:
